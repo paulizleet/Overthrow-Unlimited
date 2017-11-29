@@ -1,0 +1,27 @@
+"AddonInfo"
+{
+	"mines_trio"
+	{
+		"MaxPlayers"		"9"
+	}
+	"desert_duo"
+	{
+		"MaxPlayers"		"10"
+	}
+	"forest_solo"
+	{
+		"MaxPlayers"		"10"
+	}	
+	"forest_solo_same_heroes"
+	{
+		"MaxPlayers"		"10"
+	}
+	"desert_quintet"
+	{
+		"MaxPlayers"		"15"
+	}
+	"temple_quartet"
+	{
+		"MaxPlayers"		"16"
+	}
+}
